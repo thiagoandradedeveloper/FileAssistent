@@ -23,7 +23,7 @@ import java.lang.String;
 public class FileAssistent {
 
     //método para compactar arquivo
-    public static void compactarParaZip(String arqSaida,String arqEntrada)
+    public static void compactarParaZip(String arqEntrada, String arqSaida)
     throws IOException{
         
         
